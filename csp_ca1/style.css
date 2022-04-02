@@ -1,1 +1,17 @@
-h1 {color: darkmagenta; }
+h1 {color: rgb(78, 0, 78);
+    font-size: 20px;
+    font-family: Helvetica;}
+h2 {color: darkmagenta;
+    font-size: 16px;
+    font-family: Helvetica;}
+h3 {color: darkmagenta;
+    font-size: 16px;
+    font-family: Helvetica;}
+h4 {color: darkmagenta;
+    font-size: 16px;
+    font-family: Helvetica;}        
+p {
+    font-size: 12px;
+    font-family: Helvetica;
+}
+
