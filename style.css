@@ -30,4 +30,6 @@ footer {color: rgb(255, 255, 255);
     background-color: blue;
 }
 
-
+figure, figcaption {
+    text-align: center;
+}
