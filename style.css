@@ -1,8 +1,10 @@
 body {
-    background-color: rgb(223, 236, 253);
+    background-color: rgb(242, 248, 255);
 }
-table, td, th {
-    border: 3px rgb(10, 92, 160);
+table, tr, th {
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 10px;
 }
 th {
     background-color: aquamarine;
