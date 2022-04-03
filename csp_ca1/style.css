@@ -1,17 +1,22 @@
-h1 {color: rgb(78, 0, 78);
+body {
+    background-color: rgb(223, 236, 253);
+}
+table, td, th {
+    border: 3px rgb(10, 92, 160);
+}
+th {
+    background-color: aquamarine;
+}
+h1 {color: rgb(35, 5, 83);
     font-size: 20px;
-    font-family: Helvetica;}
-h2 {color: darkmagenta;
+    font-family: Helvetica;
+}
+h2, h3, h4 {color: rgb(94, 12, 202);
     font-size: 16px;
-    font-family: Helvetica;}
-h3 {color: darkmagenta;
-    font-size: 16px;
-    font-family: Helvetica;}
-h4 {color: darkmagenta;
-    font-size: 16px;
-    font-family: Helvetica;}        
-p {
+    font-family: Helvetica;
+}
+        
+p, figcaption {
     font-size: 12px;
     font-family: Helvetica;
 }
-
